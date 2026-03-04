@@ -1,6 +1,6 @@
-**FinTech Transaction Analysis**
+FinTech Transaction Analysis
 
-**Project Overview**
+Project Overview
 
 This project analyzes 10,000 financial transactions to identify spending patterns, revenue trends, and customer purchasing behavior.
 
@@ -8,10 +8,10 @@ The goal of this analysis was to apply data analytics techniques to transform ra
 
 ---
 
-**Project** Author : Esihle Mkhusane  
-**Role**: Data Analyst
+Project Author : Esihle Mkhusane  
+Role: Data Analyst
 
-**As the Data Analyst on this project, I was responsible for:**
+As the Data Analyst on this project, I was responsible for:
 
 - Data loading and validation  
 - Data cleaning and transformation  
@@ -22,7 +22,7 @@ The goal of this analysis was to apply data analytics techniques to transform ra
 
 ---
 
-**Tools & Technologies Used**
+Tools & Technologies Used
 
 - Python
 - Pandas
@@ -32,41 +32,41 @@ The goal of this analysis was to apply data analytics techniques to transform ra
 
 ---
 
-**Project Structure**
+Project Structure
 
 ---
 
-## Key Analysis Performed
+Key Analysis Performed
 
-### Data Exploration
+Data Exploration
 - Checked dataset structure and data types
 - Verified missing values
 - Generated summary statistics
 - Verified absence of missing values
 
-###  Data Transformation
+Data Transformation
 - Converted transaction dates to datetime format
 - Created monthly period column for time-series analysis
 
-### Revenue Analysis
+Revenue Analysis
 - Calculated total revenue
 - Computed Average Transaction Value (ATV)
 - Analyzed monthly revenue trends
 
-### Customer Insights
+Customer Insights
 - Identified top 10 customers by total spend
 - Evaluated purchasing behavior
 
-### Product & Category Insights
+Product & Category Insights
 - Determined most purchased items
 - Analyzed revenue contribution by category
 
-### Payment Behavior
+Payment Behavior
 - Examined distribution of payment methods used by customers
 
 ---
 
-**Key Insights**
+Key Insights
 
 - The dataset contains complete transaction data with no missing values.
 - Revenue trends show consistent transactional activity.
@@ -76,7 +76,7 @@ The goal of this analysis was to apply data analytics techniques to transform ra
 
 ---
 
-**What This Project Demonstrates**
+What This Project Demonstrates
 
 This project highlights my ability to:
 
@@ -101,7 +101,7 @@ This analysis demonstrates practical data analytics skills applicable in real-wo
 
 ---
 
-**Future Improvements**
+Future Improvements
 
 - Add advanced visualizations (Seaborn / Plotly)
 - Perform customer segmentation (RFM analysis)
