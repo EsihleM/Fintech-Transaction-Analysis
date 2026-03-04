@@ -1,6 +1,6 @@
-**FinTech Transaction Analysis**
+FinTech Transaction Analysis
 
-**Project Overview**
+Project Overview
 
 This project analyzes a dataset of 10,000 financial transactions to uncover spending patterns, revenue trends, customer behavior, and purchasing insights.  
 
@@ -8,10 +8,10 @@ The goal of this analysis was to apply data analytics techniques to transform ra
 
 ---
 
-**Project** Author : Esihle Mkhusane  
-**Role**: Data Analyst
+Project Author : Esihle Mkhusane  
+Role: Data Analyst
 
-**As the Data Analyst on this project, I was responsible for:**
+As the Data Analyst on this project, I was responsible for:
 
 - Data loading and validation  
 - Data cleaning and transformation  
